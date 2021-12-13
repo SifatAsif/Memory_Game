@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/sifat/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/sifat/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_food.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/sifat/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/activity_main.xml" value="0.17010309278350516" />
+        <entry key="..\:/Users/sifat/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/memory_card.xml" value="0.1" />
       </map>
     </option>
   </component>
